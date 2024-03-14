@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url('https://imagenes.muyinteresante.com/files/composte_image/uploads/2023/08/01/64c927ca910e0.jpeg') center center fixed;
+    background-size: cover;
+}
+
+.Titulo {
+    text-shadow: 1px  0px 0px black,
+                0px  1px 0px black,
+                -1px  0px 0px black,
+                0px -1px 0px black;
+}
+.navbar-nav {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    -webkit-text-stroke: 0.5px;
+    -webkit-text-stroke-color: white;
+}

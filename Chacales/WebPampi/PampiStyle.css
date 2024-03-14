@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url('https://rvideos2.memedroid.com/videos/UPLOADED842/650b2075a551e.webp') center center fixed;
+    background-size: cover;
+}
+
+.Titulo {
+    text-shadow: 1px  0px 0px black,
+                0px  1px 0px black,
+                -1px  0px 0px black,
+                0px -1px 0px black;
+}
+.navbar-nav {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    -webkit-text-stroke: 0.5px;
+    -webkit-text-stroke-color: white;
+}

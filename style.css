@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url('https://wallpapercave.com/wp/wp2757874.gif') center center fixed;
+    background-size: cover;
+    
+}
+
+.titulo{
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.productos {
+    min-height: 100px;
+    display: grid;
+    grid-template-columns: 350px 350px 350px;
+    gap: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.navbar-nav {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    -webkit-text-stroke: 0.5px;
+    -webkit-text-stroke-color: white;
+}
+
+.producto {
+    text-shadow: 1px  0px 0px black,
+    0px  1px 0px black,
+    -1px  0px 0px black,
+    0px -1px 0px black;
+}
