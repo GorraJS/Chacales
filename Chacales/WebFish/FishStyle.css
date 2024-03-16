@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url('https://s2-galileu.glbimg.com/WsuCEbiQLBnPkgoJ0HtVgJh5JG8=/0x0:4345x2895/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_fde5cd494fb04473a83fa5fd57ad4542/internal_photos/bs/2024/Z/D/tHTQj4TC6VQLYTxJVNEw/gettyimages-1424272287.jpg') center center fixed;
+    background-size: cover;
+}
+
+.Titulo {
+    text-shadow: 1px  0px 0px black,
+                0px  1px 0px black,
+                -1px  0px 0px black,
+                0px -1px 0px black;
+}
+.navbar-nav {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    -webkit-text-stroke: 0.5px;
+    -webkit-text-stroke-color: white;
+}
